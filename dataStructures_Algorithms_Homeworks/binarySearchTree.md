@@ -12,7 +12,7 @@ __[7,5,1,8,3,6,0,9,4,2]__
 1. _Verilen dizinin Binary Search Tree aşamaları:_
 
 
-![github](Images\dataStructures_Algorithms/binarySearchTree.png)
+![github](Images/dataStructures_Algorithms/binarySearchTree.png)
 
 
 
