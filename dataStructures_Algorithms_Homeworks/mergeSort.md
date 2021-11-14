@@ -11,7 +11,7 @@ __[16,21,11,8,12,22]__
 
 1. _Verilen dizinin sort türüne göre aşamaları:_
 
-![github](kodluyoruzilkrepo/Images/dataStructures_Algorithms/mergeSort.png)
+![mergeSort](https://github.com/AhmetKaplan0/kodluyoruzilkrepo/blob/main/Images/dataStructures_Algorithms/mergeSort.png)
 
 
 2. _Big-O Gösterimi:_
